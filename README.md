@@ -13,6 +13,10 @@ Some of the functionality which can be benefited by being a User is listed below
 
 5.Search for Blood.
 
+6.Search for nearby blood banks and hospitals.
+
+7.Give Suggestions
+
 
 
 
